@@ -12,7 +12,7 @@ This repository serves as my public portfolio — a place to showcase my learnin
 - Currently Learning: AWS Services:EC2,S3,IAM,VPC,Load Balancer,Auto Scaling,CloudWatch, Route 53-- DevOps Tools:Git,Github,Jenkins,Terraform,CI/CD,DockerAnd More  
 - Goal:Become a Cloud/DevOps Engineer at a top MNC
 - LinkedIn:https://www.linkedin.com/in/atharva-matale-a793b3292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- GitHub:
+- GitHub:https://github.com/AtharvaKishorMatale/AWS-and-Devops
   
 # Weekly Progress
 
